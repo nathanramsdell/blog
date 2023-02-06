@@ -3,7 +3,7 @@ import Link from "next/link"
 
 
 const Post = ({ post, pid }) => {
-
+  console.log(post)
   return (
     <div className='hero container max-w-[800px] mx-auto px-2 lg:px-0 pt-6'>
       <div className="text-center">
