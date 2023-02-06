@@ -7,7 +7,7 @@ const navigationLinks = [
         text: "Home"
     },
     {
-        url: "https://docs.nathanramsdell.com",
+        url: "https://docs.nathanramsdell.com/blog",
         text: "About",
         newTab: true
     },
